@@ -168,7 +168,7 @@ Before running the pipeline, ensure you have the following installed:
 
 ## Usage
 
-Follow these steps to run the camera-based finger impact detection system:
+Follow these steps to run the camera-based gaze detection system:
 
 ## Note: 
    - The current images present in the `Calibration_Images` folder were captured using the **repository admin's webcam**. These **must be removed** before proceeding.
