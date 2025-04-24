@@ -73,7 +73,7 @@ You can view the detailed project report [here](https://res.cloudinary.com/drkww
 
 ```
 📦Calibration_Images
-📦captured_frames
+📦captured_frames_IONI
 📜Code_Pipeline.ipynb
 📜Captured_Frames_Analysis.png
 📜License
