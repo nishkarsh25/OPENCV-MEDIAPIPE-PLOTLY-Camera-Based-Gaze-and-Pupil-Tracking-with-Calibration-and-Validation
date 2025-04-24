@@ -268,7 +268,6 @@ This project makes use of the following tools and libraries:
 - [Pandas](https://pandas.pydata.org/) – For structured data analysis and manipulation.
 - [Matplotlib](https://matplotlib.org/) – For static plotting and visual data representation.
 - [Plotly](https://plotly.com/) – For interactive, web-based data visualizations.
-- [SciPy](https://scipy.org/) – For signal processing and peak detection.
 
 All libraries and frameworks used are open-source and integral to the completion of this project.
 
